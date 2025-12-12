@@ -2,10 +2,9 @@
 ## Olá me chamo Victor Wendel,aprendiz de segurança da informação e estudante de engenharia da computação 🖥️ 👨‍💻 !!
 
 
-- 🎒 Atualmente trabalho em um projeto de Avaliação de Ferramentas de Segurança para Rede de Sensores sem Fio
-- ✏️ Estou aprendendo python, javascript, C++ e bash
+- ✏️ Estou aprendendo python, C, C++ , Bash e PowerShell
 - 📚 Contato: demelovictor825@gmail.com
-- 🤓 Área de interesse: Redes de Computadores
+- 🤓 Área de interesse: Análise e Desenvolvimento de Malwares 
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
